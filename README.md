@@ -1,2 +1,2 @@
-# algorithms-
-algorithm stuff
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
